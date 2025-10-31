@@ -95,6 +95,22 @@
 - **FR-006**: System MUST authenticate users via [NEEDS CLARIFICATION: auth method not specified - email/password, SSO, OAuth?]
 - **FR-007**: System MUST retain user data for [NEEDS CLARIFICATION: retention period not specified]
 
+### Code Quality Requirements
+
+- **CQR-001**: [Specify any particular code quality requirements for the feature]
+
+### Testing Requirements
+
+- **TR-001**: [Detail the testing strategy for the feature, including unit, integration, and end-to-end tests]
+
+### User Experience Requirements
+
+- **UXR-001**: [Describe the expected user experience and UI design]
+
+### Performance Requirements
+
+- **PR-001**: [Define any specific performance goals or constraints for the feature]
+
 ### Key Entities *(include if feature involves data)*
 
 - **[Entity 1]**: [What it represents, key attributes without implementation]
