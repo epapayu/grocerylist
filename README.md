@@ -10,6 +10,10 @@ This project is a web application that helps users generate grocery lists using 
 *   **Interactive lists:** Users can refine the generated list by selecting the items they want.
 *   **Save and view lists:** Save your grocery lists to view them later.
 
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+
 ## Technologies Used
 
 *   **Frontend:** JavaScript (ES2022) with Vite
@@ -25,8 +29,8 @@ This project is a web application that helps users generate grocery lists using 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/vc-mc-challenge-01.git
-    cd vc-mc-challenge-01
+    git clone https://github.com/epapayu/grocerylist
+    cd grocerlist
     ```
 
 2.  **Install dependencies:**
